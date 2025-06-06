@@ -3,7 +3,7 @@ const repoCount = 5
 
 // console.log(name + repoCount + " Value");
 
-console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);
+console.log(`Hello my name is ${name} and my repo count is ${repoCount}`);              // String Interpolation
 
 const gameName = new String('dipesh-dp-com')
 
